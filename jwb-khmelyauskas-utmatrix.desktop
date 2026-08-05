@@ -2,7 +2,7 @@
 Name=utMatrix
 Name[ru]=Убунтовская Матрица
 Exec=webapp-container --app-id="jwb-khmelyauskas-utmatrix.khmelyauskas" $@ www/index.html
-Icon=Icon.svg
+Icon=icon.svg
 Terminal=false
 Type=Application
 X-Lomiri-Touch=true
